@@ -76,3 +76,5 @@ async function createWorkBook (ids) {
     console.log('done')
   })
 }
+
+console.log('test')
